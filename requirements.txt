@@ -1,0 +1,7 @@
+For this you will need 
+savepagenow
+requests
+beautifulsoup4
+lxml
+certifi
+Without these you cannot use wayback-spider
