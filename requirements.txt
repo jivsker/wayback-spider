@@ -4,4 +4,5 @@ requests
 beautifulsoup4
 lxml
 certifi
+If your on a windows OS older than windows 11 you MUST install python 3.8+
 Without these you cannot use wayback-spider
